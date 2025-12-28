@@ -1,0 +1,329 @@
+{
+  "@@locale": "en",
+  "appName": "Paid Surveys",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "surveys": "Surveys",
+  "@surveys": {
+    "description": "Surveys tab label"
+  },
+  "leaderboard": "Leaderboard",
+  "@leaderboard": {
+    "description": "Leaderboard tab label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  "redeem": "Redeem",
+  "@redeem": {
+    "description": "Redeem tab label"
+  },
+  "coins": "Coins",
+  "@coins": {
+    "description": "Coins label"
+  },
+  "welcomeBack": "Welcome back!",
+  "@welcomeBack": {
+    "description": "Welcome message"
+  },
+  "dailyBonus": "Daily Bonus",
+  "@dailyBonus": {
+    "description": "Daily bonus title"
+  },
+  "claimBonus": "Claim Bonus",
+  "@claimBonus": {
+    "description": "Claim bonus button"
+  },
+  "bonusClaimed": "Bonus claimed!",
+  "@bonusClaimed": {
+    "description": "Bonus claimed message"
+  },
+  "streak": "Streak",
+  "@streak": {
+    "description": "Streak label"
+  },
+  "days": "days",
+  "@days": {
+    "description": "Days label"
+  },
+  "availableSurveys": "Available Surveys",
+  "@availableSurveys": {
+    "description": "Available surveys title"
+  },
+  "startSurvey": "Start Survey",
+  "@startSurvey": {
+    "description": "Start survey button"
+  },
+  "continueSurvey": "Continue",
+  "@continueSurvey": {
+    "description": "Continue survey button"
+  },
+  "completeSurvey": "Complete",
+  "@completeSurvey": {
+    "description": "Complete survey button"
+  },
+  "surveyCompleted": "Survey Completed!",
+  "@surveyCompleted": {
+    "description": "Survey completed message"
+  },
+  "earnedCoins": "You earned {coins} coins!",
+  "@earnedCoins": {
+    "description": "Earned coins message",
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "estimatedTime": "{minutes} min",
+  "@estimatedTime": {
+    "description": "Estimated time label",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "questionOf": "Question {current} of {total}",
+  "@questionOf": {
+    "description": "Question progress",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Next button"
+  },
+  "previous": "Previous",
+  "@previous": {
+    "description": "Previous button"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit button"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button"
+  },
+  "globalLeaderboard": "Global",
+  "@globalLeaderboard": {
+    "description": "Global leaderboard tab"
+  },
+  "friendsLeaderboard": "Friends",
+  "@friendsLeaderboard": {
+    "description": "Friends leaderboard tab"
+  },
+  "weeklyLeaderboard": "Weekly",
+  "@weeklyLeaderboard": {
+    "description": "Weekly leaderboard tab"
+  },
+  "rank": "Rank",
+  "@rank": {
+    "description": "Rank label"
+  },
+  "yourRank": "Your Rank",
+  "@yourRank": {
+    "description": "Your rank label"
+  },
+  "totalCoins": "Total Coins",
+  "@totalCoins": {
+    "description": "Total coins label"
+  },
+  "lifetimeEarnings": "Lifetime Earnings",
+  "@lifetimeEarnings": {
+    "description": "Lifetime earnings label"
+  },
+  "surveysCompleted": "Surveys Completed",
+  "@surveysCompleted": {
+    "description": "Surveys completed label"
+  },
+  "redeemRewards": "Redeem Rewards",
+  "@redeemRewards": {
+    "description": "Redeem rewards title"
+  },
+  "giftCard": "Gift Card",
+  "@giftCard": {
+    "description": "Gift card label"
+  },
+  "paypal": "PayPal",
+  "@paypal": {
+    "description": "PayPal label"
+  },
+  "redeemNow": "Redeem Now",
+  "@redeemNow": {
+    "description": "Redeem now button"
+  },
+  "insufficientCoins": "Insufficient coins",
+  "@insufficientCoins": {
+    "description": "Insufficient coins message"
+  },
+  "redeemSuccess": "Redemption successful!",
+  "@redeemSuccess": {
+    "description": "Redemption success message"
+  },
+  "redeemPending": "Redemption pending",
+  "@redeemPending": {
+    "description": "Redemption pending message"
+  },
+  "transactionHistory": "Transaction History",
+  "@transactionHistory": {
+    "description": "Transaction history title"
+  },
+  "noTransactions": "No transactions yet",
+  "@noTransactions": {
+    "description": "No transactions message"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button"
+  },
+  "signOut": "Sign Out",
+  "@signOut": {
+    "description": "Sign out button"
+  },
+  "continueAsGuest": "Continue as Guest",
+  "@continueAsGuest": {
+    "description": "Continue as guest button"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password label"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password label"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Name label"
+  },
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link"
+  },
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Already have account message"
+  },
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Don't have account message"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme label"
+  },
+  "lightTheme": "Light",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  "darkTheme": "Dark",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  "systemTheme": "System",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language label"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications label"
+  },
+  "enableNotifications": "Enable Notifications",
+  "@enableNotifications": {
+    "description": "Enable notifications toggle"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Privacy policy link"
+  },
+  "termsOfService": "Terms of Service",
+  "@termsOfService": {
+    "description": "Terms of service link"
+  },
+  "aboutUs": "About Us",
+  "@aboutUs": {
+    "description": "About us link"
+  },
+  "contactSupport": "Contact Support",
+  "@contactSupport": {
+    "description": "Contact support link"
+  },
+  "version": "Version",
+  "@version": {
+    "description": "Version label"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading message"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error title"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button"
+  },
+  "noSurveysAvailable": "No surveys available",
+  "@noSurveysAvailable": {
+    "description": "No surveys message"
+  },
+  "checkBackLater": "Check back later for new surveys!",
+  "@checkBackLater": {
+    "description": "Check back later message"
+  },
+  "congratulations": "Congratulations!",
+  "@congratulations": {
+    "description": "Congratulations message"
+  },
+  "keepItUp": "Keep it up!",
+  "@keepItUp": {
+    "description": "Keep it up message"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close button"
+  }
+}

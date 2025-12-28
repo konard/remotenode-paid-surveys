@@ -1,0 +1,104 @@
+{
+  "@@locale": "es",
+  "appName": "Encuestas Pagadas",
+  "home": "Inicio",
+  "surveys": "Encuestas",
+  "leaderboard": "Clasificación",
+  "profile": "Perfil",
+  "redeem": "Canjear",
+  "coins": "Monedas",
+  "welcomeBack": "¡Bienvenido de nuevo!",
+  "dailyBonus": "Bonificación diaria",
+  "claimBonus": "Reclamar bonificación",
+  "bonusClaimed": "¡Bonificación reclamada!",
+  "streak": "Racha",
+  "days": "días",
+  "availableSurveys": "Encuestas disponibles",
+  "startSurvey": "Iniciar encuesta",
+  "continueSurvey": "Continuar",
+  "completeSurvey": "Completar",
+  "surveyCompleted": "¡Encuesta completada!",
+  "earnedCoins": "¡Ganaste {coins} monedas!",
+  "@earnedCoins": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "estimatedTime": "{minutes} min",
+  "@estimatedTime": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "questionOf": "Pregunta {current} de {total}",
+  "@questionOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "next": "Siguiente",
+  "previous": "Anterior",
+  "submit": "Enviar",
+  "skip": "Omitir",
+  "globalLeaderboard": "Global",
+  "friendsLeaderboard": "Amigos",
+  "weeklyLeaderboard": "Semanal",
+  "rank": "Rango",
+  "yourRank": "Tu rango",
+  "totalCoins": "Monedas totales",
+  "lifetimeEarnings": "Ganancias totales",
+  "surveysCompleted": "Encuestas completadas",
+  "redeemRewards": "Canjear recompensas",
+  "giftCard": "Tarjeta de regalo",
+  "paypal": "PayPal",
+  "redeemNow": "Canjear ahora",
+  "insufficientCoins": "Monedas insuficientes",
+  "redeemSuccess": "¡Canje exitoso!",
+  "redeemPending": "Canje pendiente",
+  "transactionHistory": "Historial de transacciones",
+  "noTransactions": "Sin transacciones aún",
+  "signIn": "Iniciar sesión",
+  "signUp": "Registrarse",
+  "signOut": "Cerrar sesión",
+  "continueAsGuest": "Continuar como invitado",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "confirmPassword": "Confirmar contraseña",
+  "name": "Nombre",
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+  "dontHaveAccount": "¿No tienes una cuenta?",
+  "settings": "Configuración",
+  "theme": "Tema",
+  "lightTheme": "Claro",
+  "darkTheme": "Oscuro",
+  "systemTheme": "Sistema",
+  "language": "Idioma",
+  "notifications": "Notificaciones",
+  "enableNotifications": "Activar notificaciones",
+  "privacyPolicy": "Política de privacidad",
+  "termsOfService": "Términos de servicio",
+  "aboutUs": "Sobre nosotros",
+  "contactSupport": "Contactar soporte",
+  "version": "Versión",
+  "loading": "Cargando...",
+  "error": "Error",
+  "retry": "Reintentar",
+  "noSurveysAvailable": "No hay encuestas disponibles",
+  "checkBackLater": "¡Vuelve más tarde para nuevas encuestas!",
+  "congratulations": "¡Felicitaciones!",
+  "keepItUp": "¡Sigue así!",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "save": "Guardar",
+  "close": "Cerrar"
+}

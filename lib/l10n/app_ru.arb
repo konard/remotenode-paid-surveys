@@ -1,0 +1,104 @@
+{
+  "@@locale": "ru",
+  "appName": "Платные Опросы",
+  "home": "Главная",
+  "surveys": "Опросы",
+  "leaderboard": "Рейтинг",
+  "profile": "Профиль",
+  "redeem": "Обменять",
+  "coins": "Монеты",
+  "welcomeBack": "С возвращением!",
+  "dailyBonus": "Ежедневный бонус",
+  "claimBonus": "Получить бонус",
+  "bonusClaimed": "Бонус получен!",
+  "streak": "Серия",
+  "days": "дней",
+  "availableSurveys": "Доступные опросы",
+  "startSurvey": "Начать опрос",
+  "continueSurvey": "Продолжить",
+  "completeSurvey": "Завершить",
+  "surveyCompleted": "Опрос завершён!",
+  "earnedCoins": "Вы заработали {coins} монет!",
+  "@earnedCoins": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "estimatedTime": "{minutes} мин",
+  "@estimatedTime": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "questionOf": "Вопрос {current} из {total}",
+  "@questionOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "next": "Далее",
+  "previous": "Назад",
+  "submit": "Отправить",
+  "skip": "Пропустить",
+  "globalLeaderboard": "Глобальный",
+  "friendsLeaderboard": "Друзья",
+  "weeklyLeaderboard": "Недельный",
+  "rank": "Ранг",
+  "yourRank": "Ваш ранг",
+  "totalCoins": "Всего монет",
+  "lifetimeEarnings": "Заработано всего",
+  "surveysCompleted": "Опросов завершено",
+  "redeemRewards": "Обменять награды",
+  "giftCard": "Подарочная карта",
+  "paypal": "PayPal",
+  "redeemNow": "Обменять сейчас",
+  "insufficientCoins": "Недостаточно монет",
+  "redeemSuccess": "Обмен успешен!",
+  "redeemPending": "Обмен в обработке",
+  "transactionHistory": "История транзакций",
+  "noTransactions": "Транзакций пока нет",
+  "signIn": "Войти",
+  "signUp": "Регистрация",
+  "signOut": "Выйти",
+  "continueAsGuest": "Продолжить как гость",
+  "email": "Email",
+  "password": "Пароль",
+  "confirmPassword": "Подтвердите пароль",
+  "name": "Имя",
+  "forgotPassword": "Забыли пароль?",
+  "alreadyHaveAccount": "Уже есть аккаунт?",
+  "dontHaveAccount": "Нет аккаунта?",
+  "settings": "Настройки",
+  "theme": "Тема",
+  "lightTheme": "Светлая",
+  "darkTheme": "Тёмная",
+  "systemTheme": "Системная",
+  "language": "Язык",
+  "notifications": "Уведомления",
+  "enableNotifications": "Включить уведомления",
+  "privacyPolicy": "Политика конфиденциальности",
+  "termsOfService": "Условия использования",
+  "aboutUs": "О нас",
+  "contactSupport": "Связаться с поддержкой",
+  "version": "Версия",
+  "loading": "Загрузка...",
+  "error": "Ошибка",
+  "retry": "Повторить",
+  "noSurveysAvailable": "Опросы недоступны",
+  "checkBackLater": "Загляните позже за новыми опросами!",
+  "congratulations": "Поздравляем!",
+  "keepItUp": "Так держать!",
+  "cancel": "Отмена",
+  "confirm": "Подтвердить",
+  "save": "Сохранить",
+  "close": "Закрыть"
+}
